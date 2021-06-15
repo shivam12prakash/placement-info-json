@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "regNo": "20418532",
+      "name": "Shivam Prakash",
+      "Branch": "Information Technology",
+      "email": "shivam12prakash@gmail.com",
+      "GPA": "8.5",
+      "phone": "9304037169"
+    },
+    {
+      "id": "2",
+      "regNo": "20418531",
+      "name": "Shivam Kumar",
+      "Branch": "Information Technology",
+      "email": "shivam123@gmail.com",
+      "GPA": "8",
+      "phone": "1234678"
+    },
+    {
+      "id": "3",
+      "regNo": "20418536",
+      "name": "Suryanshu Deo Shah",
+      "Branch": "Information Technology",
+      "email": "suryanshu321@gmail.com",
+      "GPA": "9.2",
+      "phone": "987654321"
+    },
+    {
+      "id": "4",
+      "regNo": "20418538",
+      "name": "Vivek Kumar",
+      "Branch": "Information Technology",
+      "email": "vivek657@gmail.com",
+      "GPA": "7.3",
+      "phone": "7676753241"
+    }
+  ]
+}
